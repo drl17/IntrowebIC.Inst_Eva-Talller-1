@@ -1,0 +1,92 @@
+
+
+.Home{
+    padding: 1%;
+    background-color: lightgray;
+    color: darkslategray;
+    text-align: left;
+    font: small-caption;
+    font-size: 200%;    
+}
+
+.Naturaname{
+    color: darkslategray;
+    padding-left: 0.5%;
+    font-size: 250%;
+}
+
+.barra2{
+    padding: 1%;
+    text-align: right;
+    color: darkslategray;
+    text-align: right;
+    font: small-caption;
+}
+
+.Nosotros{
+    padding-left: 2%;
+}
+.Servicios{
+    padding-left: 2%;
+}
+
+.Contactenos{
+    padding-left: 2%;
+}
+
+a{
+    color: darkslategray;
+    text-decoration-line: none;
+    font: small-caption;
+    font-size: 250%;
+}
+
+li{
+    font:small-caption;
+    list-style: none;
+}
+
+.p1{
+    padding: 1%;
+    background-color: lightgreen;
+    color: darkgreen;
+    font-size: 150%;
+}
+
+.p2{
+    padding: 1%;
+    background-color: lightgreen;
+    color: darkgreen;
+    font-size: 150%;
+
+}
+
+.p3{
+    padding: 1%;
+    background-color: lightgreen;
+    color: darkgreen;
+    font-size: 150%;
+
+}
+
+.label1{
+    font:small-caption;
+    font-size: 200%;
+    color: darkslategray;
+}
+
+.p4{
+    padding: 1%;
+    background-color: lightgreen;
+    color: darkgreen;
+    font-size: 150%;
+    list-style:decimal inside;
+}
+
+p{
+    font:small-caption;
+    font-size: 200%;
+    color: darkgreen;
+    background-color: lightgray;
+
+}
